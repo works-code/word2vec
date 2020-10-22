@@ -1,3 +1,3 @@
 # word2vec
-## word2vec을 이용한 두가지 예제
-## 1) 장바구니 데이터를 이용한 유사 상품 추천
+Two examples using word2vec
+1) Recommend similar products using shopping cart data
